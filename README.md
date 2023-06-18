@@ -39,8 +39,8 @@ pip install numpy pandas matplotlib seaborn statsmodels
 
 After analyzing the sales dataset, we have identified the following key insights:
 
-- The highest sales amount was recorded on [date], reaching [amount].
-- The sales trend over time shows a significant spike during [event/season].
+- The highest sales amount was recorded on 4/14/2005, reaching 97.
+- The sales trend over time shows a significant spike during April and June.
 - There is a strong positive correlation between [variable A] and [variable B].
 - Product category [category name] has the highest sales volume.
 - The regression analysis reveals that [independent variable(s)] significantly affect the sales amount.
