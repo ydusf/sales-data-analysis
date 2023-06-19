@@ -8,12 +8,12 @@ The goal of this project is to analyze a sales dataset to gain insights into sal
 
 ## Dataset
 
-The sales dataset used in this project was obtained from [source]. It contains records of sales transactions, including information such as sales amounts, dates, customer details, and product attributes. The dataset is provided in CSV format and consists of multiple columns, including `sales_amount`, `date`, `customer_id`, `product_id`, and more.
+The sales dataset used in this project was obtained from https://www.kaggle.com/datasets/kyanyoga/sample-sales-data. It contains records of sales transactions, including information such as sales amounts, dates, customer details, and product attributes. The dataset is provided in CSV format and consists of multiple columns, including `SALES`, `MONTH_ID`, `CONTACTFIRSTNAME`, `PRICEEACH`, and more.
 
 ## Project Structure
 
 - `data/`: This directory contains the sales dataset file(s).
-- `notebooks/`: This directory contains Jupyter notebooks with the code for data loading, cleaning, exploration, visualization, and analysis.
+- `analysis/`: This directory contains Jupyter notebooks with the code for data loading, cleaning, exploration, visualization, and analysis.
 - `results/`: This directory stores any generated plots, visualizations, or analysis outputs.
 - `README.md`: This file provides an overview of the project and instructions for running the code.
 
