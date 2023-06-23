@@ -1,6 +1,6 @@
 # Sales Data Analysis Project
 
-This project is an exploratory data analysis of a sales dataset, focusing on using numpy, pandas, matplotlib, seaborn, and statsmodels libraries in Python.
+This project is an exploratory data analysis of a sales dataset, focusing on using numpy, pandas, matplotlib, seaborn, scikit-learn and statsmodels libraries in Python.
 
 ## Overview
 
@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/sales-data-analysis.git
+git clone https://github.com/ydusf/sales-data-analysis.git
 
 2. Install required dependencies:
 
