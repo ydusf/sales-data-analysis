@@ -1,6 +1,6 @@
 # Sales Data Analysis Project
 
-This project is an exploratory data analysis of a sales dataset, focusing on using numpy, pandas, matplotlib, seaborn, and statsmodels libraries in Python.
+This project is an exploratory data analysis of a sales dataset, focusing on using numpy, pandas, matplotlib, seaborn, scikit-learn and statsmodels libraries in Python.
 
 ## Overview
 
