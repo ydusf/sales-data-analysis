@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/sales-data-analysis.git
+git clone https://github.com/ydusf/sales-data-analysis.git
 
 2. Install required dependencies:
 
